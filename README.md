@@ -10,7 +10,7 @@ API SOAP simples desenvolvida em Go, sem dependências externas.
 ## 🚀 Como rodar
 
 ```bash
-git clone https://github.com/seu-usuario/soap-api
+git clone https://github.com/freitaaszx/soapongo
 cd soap-api
 go run ./cmd/api
 ```
